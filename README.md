@@ -1,10 +1,8 @@
-# Hello, folks! 
+# Ashley Park
 
-My name is Ashley Park and I'm a web developer. I'm from North Carolina, and currently live with my husband and two cats. Apart from coding, I also love to spend my free time reading, playing Magic the Gathering, as well as D&D and playing video games!
+## About Me 💻
+I'm a web developer from North Carolina, and currently live with my husband and two cats 🐈. Apart from coding, I also love to spend my free time reading, playing Magic the Gathering, as well as D&D and playing video games!
 
- You can find me on ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
- Click [here](https://www.linkedin.com/in/apark8496/) to check out my profile! 
 
 ## 🔧 Technical Skills
 
@@ -28,8 +26,12 @@ My name is Ashley Park and I'm a web developer. I'm from North Carolina, and cur
 ### Platforms
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+### 🤝🏻 Want to Get in touch?
+<a href="https://www.linkedin.com/in/apark8496/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
-
-<!-- Check out my current ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-[here] -->
+<!-- Check out more about me and my work [here](url)  add portfolio badge--!>
