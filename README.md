@@ -26,12 +26,17 @@ I'm a web developer from North Carolina, and currently live with my husband and 
 ### Platforms
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🤝🏻 Want to Get in touch?
+## 🤝🏻 Want to Get in touch?
 <a href="https://www.linkedin.com/in/apark8496/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+
+## Gothub Stats
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apark8496)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=apark8496)
 
 <!-- Check out more about me and my work [here](url)  add portfolio badge--!>
