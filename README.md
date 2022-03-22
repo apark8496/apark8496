@@ -34,9 +34,10 @@ I'm a web developer from North Carolina, and currently live with my husband and 
   />
 </a>
 
-## Gothub Stats
+####Check out my most recent projects below! 👇🏻
+<!-- ## Github Stats
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apark8496)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=apark8496)
+![github stats](https://github-readme-stats.vercel.app/api?username=apark8496) -->
 
 <!-- Check out more about me and my work [here](url)  add portfolio badge--!>
