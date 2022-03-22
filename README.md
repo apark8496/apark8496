@@ -4,8 +4,7 @@ My name is Ashley Park and I'm a web developer. I'm from North Carolina, and cur
 
 You can find me on ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Click [here](https://www.linkedin.com/in/apark8496/) to check out my profile!
-
+Click [here](https://www.linkedin.com/in/apark8496/) to check out my profile! 
 
 ## 🔧 Technical Skills
 
