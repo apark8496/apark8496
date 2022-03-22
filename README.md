@@ -29,7 +29,7 @@ Apart from coding, I also love to spend my free time reading, playing Magic the 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 🤝🏻 Want to Get in touch?
-<a href="https://www.linkedin.com/in/apark8496/" target="_blank">
+<a href="https://www.linkedin.com/in/apark8496/" target="_blank" rel="noopener noreferrer">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
