@@ -4,7 +4,7 @@
 
 I'm a web developer from North Carolina, and currently live with my husband and two cats 🐈.
 
-Apart from coding, I also love to spend my free time reading, playing Magic the Gathering, as well as D&D and playing video games!
+Apart from coding, you can find me spending my time doing all things nerdy! 📜 Such as reading, playing Magic the Gathering, as well as D&D and playing video games!
 
 ## 🔧 Technical Skills
 
