@@ -32,6 +32,10 @@ Apart from coding, you can find me spending my time doing all things nerdy! 📜
 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+
+### Github Stats
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apark8496) ![github stats](https://github-readme-stats.vercel.app/api?username=apark8496)
+
 ## 🤝🏻 Want to Get in touch?
 
 <a href="https://www.linkedin.com/in/apark8496/" target="_blank" rel="noopener noreferrer">
@@ -47,9 +51,6 @@ Apart from coding, you can find me spending my time doing all things nerdy! 📜
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
        />
 </a>
-
-### Github Stats
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apark8496) ![github stats](https://github-readme-stats.vercel.app/api?username=apark8496)
 
 
 #### Check out my most recent projects below! 👇🏻
