@@ -48,11 +48,12 @@ Apart from coding, you can find me spending my time doing all things nerdy! 📜
        />
 </a>
 
+### Github Stats
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apark8496) ![github stats](https://github-readme-stats.vercel.app/api?username=apark8496)
+
+
 #### Check out my most recent projects below! 👇🏻
 
-<!-- ## Github Stats
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apark8496)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=apark8496) -->
 
 <!-- Check out more about me and my work [here](url)  add portfolio badge--!>
