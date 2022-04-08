@@ -42,6 +42,7 @@ Apart from coding, you can find me spending my time doing all things nerdy! 📜
 
 ## 🤝🏻 Want to Get in touch?
 
+#### Click Below to contact me!
 <a href="https://www.linkedin.com/in/apark8496/" target="_blank" rel="noopener noreferrer">
   <img
     alt="Linkedin"
