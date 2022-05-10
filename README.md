@@ -41,6 +41,8 @@ Apart from coding, you can find me spending my time doing all things nerdy! 📜
 ### Github Stats
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apark8496) ![github stats](https://github-readme-stats.vercel.app/api?username=apark8496)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apark8496)](https://git.io/streak-stats)
+
 ## 🤝🏻 Want to Get in touch?
 
 #### Click Below to contact me!
