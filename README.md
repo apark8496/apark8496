@@ -1,6 +1,6 @@
 # Ashley Park: Frontend Web Developer
 
-#### Click Below to view my portfolio!
+#### Click on the icon below to view my portfolio!
 
 
 <a href="https://apark8496.github.io/apark-portfolio/">![Deployed App](https://img.shields.io/badge/My%20Portfolio-pink.svg?style=for-the-badge)</a>
@@ -45,7 +45,7 @@ Apart from coding, you can find me spending my time doing all things nerdy! 📜
 
 ## 🤝🏻 Want to Get in touch?
 
-#### Click Below to contact me!
+#### Click on the icons below to contact me!
 <a href="https://www.linkedin.com/in/apark8496/" target="_blank" rel="noopener noreferrer">
   <img
     alt="Linkedin"
