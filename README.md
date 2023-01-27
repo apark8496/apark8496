@@ -3,7 +3,7 @@
 #### Click on the icon below to view my portfolio!
 
 
-<a href="[https://apark-portfolio.netlify.app/]"> ![Deployed App](https://img.shields.io/badge/My%20Portfolio-pink.svg?style=for-the-badge)</a>
+<a href="https://apark-portfolio.netlify.app/"> ![Deployed App](https://img.shields.io/badge/My%20Portfolio-pink.svg?style=for-the-badge)</a>
 
 ## About Me 💻
 
