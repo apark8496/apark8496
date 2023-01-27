@@ -3,7 +3,7 @@
 #### Click on the icon below to view my portfolio!
 
 
-<a href="https://apark8496.github.io/apark-portfolio/">![Deployed App](https://img.shields.io/badge/My%20Portfolio-pink.svg?style=for-the-badge)</a>
+<a href="[https://apark8496.github.io/apark-portfolio/](https://apark-portfolio.netlify.app/)">![Deployed App](https://img.shields.io/badge/My%20Portfolio-pink.svg?style=for-the-badge)</a>
 
 ## About Me 💻
 
@@ -36,6 +36,7 @@ Apart from coding, you can find me spending my time doing all things nerdy! 📜
 ### Platforms
 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 ### Github Stats
